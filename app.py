@@ -2,6 +2,7 @@ import bottle
 from beaker.middleware import SessionMiddleware
 
 #I changed the file
+#changed file through github
 
 session_opts = {
     'session.type': 'file',
