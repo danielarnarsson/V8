@@ -1,0 +1,54 @@
+1. Free hosting
+	Free hosting þýðir frí hýsing (fyrir t.d. vefsíðu)
+
+2. Shared hosting
+	Shared hosting er hýsing þar sem þjónustan hýsir margar vefsíður á sama vef server. Þetta getur verið hentugt fyrir vefsíður
+	með lítið traffic en er yfirleitt ekki nóg fyrir vefsíður með mikið traffic.
+
+3. Virtual hosting
+	Virtual hosting er þegar notað er sama server fyrir meira en eina vefsíðu en hver einasti notandi hefur administrative access á serverinum.
+
+4. Dedicated hosting
+	Er þegar þegar kúnni leigir heilan server sem er ekki deildur með neinum öðrum. Hann hefur fulla stjórn á honum, t.d. stýrikerfi og íhluti.
+
+5. Collocated hosting
+	Er þegar kúnni getur leigt svæði í gagnaveri fyrir sína eigin servera. Þá notar kúnni sitt eigið hardware
+	en leigir svæðið.
+	
+6. Ecommerce hosting
+	Ecommerce hosting er öðruvísi heldur en venjulegt hosting þar sem það þarfnast meiri virkni til
+	að hosta commercial vefsíðu. Þetta inniheldur meðal annars SSL, stuðning fyrir gagnagrunn,
+	hugbúnað fyrir verslunar körfu og öryggisbúnað. Ecommerce hosting er í raun hannað til að gefa
+	einstaklingum og fyrirtækjum öll tólin og þjónustuna til að setja upp, stjórna og hýsa
+	ecommerce vefsíðu.
+
+
+
+
+Svarið eftirfarandi spurningum:
+1. Þegar vefhýsing er komin í gang, þá getur verið nauðsynlegt að fylgjast með
+notendum síðunnar, nefndu 3- 5 atriði sem gjarnan eru skráð um notendur og
+útskýrðu hvert og eitt þeirra.
+
+	aldur: 	Það er oft fylgst með hver aldur notenda er til að t.d. vita hver aldurshópurinn er og hvaða
+		auglýsingar ætti að sýna á síðunni.
+
+	tími á síðu: Það er notað til að vita hversu lengi notendur eru að nota síðuna til að t.d. vita hvort
+		     þeir eru að fíla hana.
+
+	hvað notendur gera: Það er oft fylgst með hvaða undirsíður og virkni notendur nota til að vita hvað þeir
+			gera á síðunni.
+	 
+
+
+
+2. Ef þú vilt að síðan þín fá alla þá athygi sem þú óskar, hvað þarf að gera eða hafa í
+huga þegar auka þarf innlit á síðuna þína, nefndu 3- 5 atriði sem eru notuð til að
+laða að notendur og útskýrðu hvert og eitt þeirra.
+
+	Search Engine Optimization: eða SEO er notað til að vera sýnilegur á leitarvélum.
+
+	Augýsingar: Setja út auglýsingar sem eru sýndar til þeirra sem eru líklegastir til að vilja
+		    fara á síðuna þína.
+
+	Hraði:	    Hraðinn á síðunni skiptir miklu máli því flestum finnst ekki gaman að nota hæga síðu.
