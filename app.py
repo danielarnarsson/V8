@@ -101,4 +101,4 @@ def remove_from_cart():
 def static_skrar(skra):
     return bottle.static_file(skra, root='./public/')
 
-bottle.run(app=app, host="localhost", port=8080, debug=True)
+bottle.run(app=app, host="0.0.0.0", port=argv[1], debug=True)
