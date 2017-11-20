@@ -1,4 +1,4 @@
-import bottle
+import bottle, os
 from beaker.middleware import SessionMiddleware
 
 #I changed the file
@@ -101,4 +101,6 @@ def remove_from_cart():
 def static_skrar(skra):
     return bottle.static_file(skra, root='./public/')
 
-bottle.run(app=app, host="0.0.0.0", port=argv[1], debug=True)
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))
+    bottle.run(host='0.0.0.0', port=port)
